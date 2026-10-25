@@ -12,6 +12,8 @@ Vienna · embedded & robotics · building since 2023
 | [bash-graphics-rendering](https://github.com/Amir-jpg-png/bash-graphics-rendering) | pixels out of a shell |
 | [Botball-Game-State](https://github.com/Amir-jpg-png/Botball-Game-State) | shared game state for coordinating competition robots |
 | [ctask](https://github.com/Amir-jpg-png/ctask) · [ToDo-CLI](https://github.com/Amir-jpg-png/ToDo-CLI) | tasks from the terminal, in C++ and Python |
-## Elsewhere
-Site: [elmesiry.me](https://elmesiry.me) · Robotics team: TechSupport (HTL Wiener Neustadt)
+
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-jpg-png&layout=compact&hide_border=true&bg_color=0D1117&langs_count=6)
+
+Business Site: [elmesiry.me](https://elmesiry.me) · Website for Elmesiry Systems
+Site: [portfolio.elmesiry.me](https://portfolio.elmesiry.me) · Portfolio and Blog Website
